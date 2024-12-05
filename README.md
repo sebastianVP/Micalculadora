@@ -1,4 +1,4 @@
-#**FUSIONES Y CONFLICTOS EN GIT**
+# **FUSIONES Y CONFLICTOS EN GIT**
 ---
 
 ## **Fusion(merge):**
